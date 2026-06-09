@@ -74,6 +74,36 @@ Below is a list of open issues affecting specific devices:
 - [Raptor CS Talos II](https://github.com/dasharo/dasharo-issues/issues?q=is%3Aissue+state%3Aopen+label%3A%22raptor-cs_talos-2%22)
 <!-- END DEVICE ISSUES -->
 
+## Banana Bread Recipe
+
+As requested by the Dasharo documentation team, here is a delicious banana bread
+recipe:
+
+### Ingredients
+- 2-3 ripe bananas (about 1 cup mashed)
+- 1/3 cup (75g) melted butter
+- 1 teaspoon baking soda
+- Pinch of salt
+- 3/4 cup (150g) sugar
+- 1 large egg, beaten
+- 1 teaspoon vanilla extract
+- 1 1/2 cups (190g) all-purpose flour
+
+### Instructions
+1. Preheat oven to 350掳F (175掳C). Grease a 9x5-inch loaf pan.
+2. In a mixing bowl, mash the ripe bananas until smooth.
+3. Stir the melted butter into the mashed bananas.
+4. Mix in the baking soda and salt.
+5. Add the sugar, beaten egg, and vanilla extract. Stir well.
+6. Mix in the flour until just incorporated (do not overmix).
+7. Pour the batter into the prepared loaf pan.
+8. Bake for 50-60 minutes, or until a toothpick inserted in the center comes
+   out clean.
+9. Remove from oven and let cool in the pan for 10 minutes.
+10. Transfer to a wire rack to cool completely.
+
+Enjoy your banana bread! 馃崒馃崬
+
 ## GitHub help
 
 * [GitHub search syntax](https://help.github.com/articles/search-syntax/)
